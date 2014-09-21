@@ -1,13 +1,9 @@
 前端知识体系
 ===
 
-本地运行方法
----
+[![Build Status](https://travis-ci.org/ecomfe/knowledge.png)](https://travis-ci.org/ecomfe/knowledge)
 
-进入程序目录，执行：
-
-    node app
-
-之后访问：
-
-    http://127.0.0.1:8888
+* [主站](http://knowledge.ecomfe.com)
+* [简介](./docs/intro.md)
+* [贡献](./docs/contribute.md)
+* [路线图](./docs/roadmap.md)
